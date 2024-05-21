@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-05-17-paper-title-number-3
 excerpt: '文章提出了一种用于检测联邦学习中搭便车客户端的方法，通过比较不同时期梯度更新的相似性来检测攻击者.'
 date: 2024-05-17
-venue: '计算机研究与发展'
+venue: '计算机研究与发展（EI检索）'
 citation: '洪榛，<b>冯王磊</b>，温震宇，吴迪，李涛涛，伍一鸣，王聪，纪守领. (录用). &quot;基于梯度回溯的联邦学习搭便车攻击检测.&quot; <i>计算机研究与发展</i>.'
 ---
 

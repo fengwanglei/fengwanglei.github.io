@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-04-17-paper-title-number-5
 excerpt: 'This paper propose a multi-step attack prediction architecture applied in the smart home.'
 date: 2024-04-17
-venue: 'IEEE Transactions on Vehicular Technology'
+venue: 'IEEE Transactions on Vehicular Technology (SCI-2,IF:6.8)'
 paperurl: 'https://ieeexplore.ieee.org/document/10507036'
 citation: 'Li Taotao, Hong Zhen, <b>Feng Wanglei</b>, Li Yu, Zhenyu Wen. (2024). &quot;MS-ZeroWall: Detecting Zero-Day Multi-Step Attack in Smart Home using VAE and HMM.&quot; <i>IEEE Transactions on Vehicular Technology</i>.'
 ---
