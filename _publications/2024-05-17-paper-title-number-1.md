@@ -1,7 +1,7 @@
 ---
-title: "Orchestrating Communication and Computation Efficiency in Edge-Based Knowledge Distillation"
+title: "基于梯度回溯的联邦学习搭便车攻击检测"
 collection: publications
-permalink: /publication/2024-08-21-paper-title-number-2
+permalink: /publication/2024-05-17-paper-title-number-1
 excerpt: '文章提出了一种用于检测联邦学习中搭便车客户端的方法，通过比较不同时期梯度更新的相似性来检测攻击者.'
 date: 2024-05-17
 venue: '计算机研究与发展'

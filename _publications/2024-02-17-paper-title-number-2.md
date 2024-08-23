@@ -1,7 +1,7 @@
 ---
 title: "Pretraining Client Selection Algorithm Based on a Data Distribution Evaluation Model in Federated Learning"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-02-17-paper-title-number-2
 excerpt: 'This paper propose an FL client subset selection algorithm.'
 date: 2024-02-17
 venue: 'IEEE Access'
