@@ -5,7 +5,7 @@ permalink: /publication/2024-02-17-paper-title-number-2
 excerpt: 'This paper propose an FL client subset selection algorithm.'
 date: 2024-02-17
 venue: 'IEEE Access'
-paperurl: 'https://ieeexplore.ieee.org/document/10517589?source=authoralert'
+paperurl: 'https://ieeexplore.ieee.org/document/10517589'
 citation: 'Chang Xu, Hong Liu, Kexin Li, <b>Wanglei Feng</b>, Wei Qi. (2024). &quot;Pretraining Client Selection Algorithm Based on a Data Distribution Evaluation Model in Federated Learning.&quot; <i>IEEE Access</i>. (SCI-3,IF:3.9)'
 ---
 
