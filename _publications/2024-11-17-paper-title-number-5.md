@@ -3,7 +3,7 @@ title: "FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Feder
 collection: publications
 permalink: /publication/2024-11-17-paper-title-number-5
 excerpt: 'This paper propose client pricing method for FL data market.'
-date: 2024-11-17
+date: 2025-11-17
 venue: 'KDD'
 paperurl: 'https://arxiv.org/abs/2411.11713'
 citation: 'Zhenyu Wen, <b>Wanglei Feng</b>, Di Wu, Haozhen Hu, Chang Xu, Bin Qian, Zhen Hong, Cong Wang, Shouling Ji. (Accept). &quot;FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning.&quot; <i>KDD2025</i>. (CCF A)'
