@@ -5,7 +5,7 @@ permalink: /publication/2025-03-25-paper-title-number-6
 excerpt: 'This paper propose Edge Model Overlay to address the challenges in SFL.'
 date: 2025-04-03
 venue: 'ICDCS'
-paperurl: ' '
+paperurl: 'https://arxiv.org/abs/2504.00726'
 citation: 'Di Wu, Weibo He, <b>Wanglei Feng</b>, Zhenyu Wen, Bin Qian, and Blesson Varghese. (Accept). &quot;EMO: Edge Model Overlays to Scale Model Size in Federated Learning.&quot; <i>ICDCS2025</i>. (CCF B)'
 ---
 
