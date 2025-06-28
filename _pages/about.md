@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I'm a master candidate from [College of information engineering](https://ie.zjut.edu.cn/), [Zhejiang University of Technology](https://www.zjut.edu.cn/). My research interest includes Federated Learning.
+I‘m currently working at China Mobile Group Zhejiang Company Limited Shaoxing Branch
+
+My research interest includes Federated Learning.
 
 Education
 ======
 
-* M.S. in Control Science and Engineering, Zhejiang University of Technology, 2025 (expected)
+* M.S. in Control Science and Engineering, Zhejiang University of Technology, 2025
 * B.S. in Electrical Engineering and Automation, Wenzhou University, 2022
 
 Publications
