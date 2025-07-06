@@ -11,6 +11,8 @@ I‘m currently working at China Mobile Group Zhejiang Company Limited Shaoxing 
 
 My research interest includes Federated Learning.
 
+email: wlfeng97[at]gmail.com
+
 Education
 ======
 
